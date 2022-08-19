@@ -10,7 +10,7 @@ public class Example {
         System.out.print("Enter a value: ");
         System.out.println("You entered: " + scanner.nextLine());
 
-
     }
 }
+
 
